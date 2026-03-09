@@ -21,7 +21,7 @@ Desafio de Qa - Testes de aplicação de cursos
 ## 1. Objetivo
 O objetivo desse desafio foi realizar testes manuais em uma aplicação de cadastro de cursos, identificando 
 possíveis falhas, validando funcionalidades e documentando resultados. 
-Os cados de teste utilizados durante a execução estão documentados na planilha a seguir: 
+Os dados de teste utilizados durante a execução estão documentados na planilha a seguir: 
 
 https://bit.ly/casos-de-teste   <
 
