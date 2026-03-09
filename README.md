@@ -25,3 +25,7 @@ Os cados de teste utilizados durante a execução estão documentados na planilh
 
 https://bit.ly/casos-de-teste   <
 
+## Evidências
+As evidências dos testes realizados estão disponíveis abaixo: 
+
+https://bit.ly/Videos-evidências  <
