@@ -11,4 +11,6 @@ Os principais fluxos disponiveis são:
 Os pontos mais críticos para teste:
 - Cadastros de novos cursos
 - Validação dos campos obrigatórios
-- 
+- Consistência dos dados (cadastro duplicado)
+- Qualidade dos textos exibidos na interface
+- Exibição correta das informações cadastradas
